@@ -1,5 +1,5 @@
 export const barfoo = () => {
-  console.log('barfoo');
-  console.log('barfoo');
-  console.log('barfoo');
+  console.log('barFoo');
+  console.log('barFoo');
+  console.log('barFoo');
 };
