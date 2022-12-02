@@ -1,5 +1,11 @@
 # @timngyn-poc-changesets-monorepo/barfoo
 
+## 1.1.1
+
+### Patch Changes
+
+- [#6](https://github.com/timngyn/poc-changesets-monorepo/pull/6) [`8b79160`](https://github.com/timngyn/poc-changesets-monorepo/commit/8b79160be6dbfc8efedbffd056937593c3f2f739) Thanks [@timngyn](https://github.com/timngyn)! - Fix typo for barFoo console logs
+
 ## 1.1.0
 
 ### Minor Changes

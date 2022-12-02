@@ -1,5 +1,11 @@
 # @timngyn-poc-changesets-monorepo/foobar
 
+## 1.0.2
+
+### Patch Changes
+
+- [#4](https://github.com/timngyn/poc-changesets-monorepo/pull/4) [`c55d9a7`](https://github.com/timngyn/poc-changesets-monorepo/commit/c55d9a7971dcdeac40537fcabeec1cd961365e40) Thanks [@timngyn](https://github.com/timngyn)! - Updating console.log() to have more exclamation points.
+
 ## 1.0.1
 
 ### Patch Changes
